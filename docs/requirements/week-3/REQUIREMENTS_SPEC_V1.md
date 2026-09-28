@@ -14,3 +14,20 @@ hard to verify as current.
 A student asks one typed IT Support question. CampusConnect searches only approved
 IT Support material, returns a short answer with a visible source, or says the
 available sources do not support an answer.
+## 4. Four requirements
+- FR-01 — The system shall accept one typed IT Support question.
+- GR-01 — Every factual answer shall identify the approved source used.
+- SF-01 — If approved sources are insufficient, the system shall not invent an
+answer and shall provide a helpful IT Support next step.
+- NFR-01 — A keyboard user shall be able to submit a question and read the result.
+## 5. MVP boundary
+IN: one typed question, approved IT Support material, one grounded answer, visible
+source, safe failure, and helpful next step.
+OUT: password resets, ticket creation, personal student records, voice, automatic
+actions, and answers from unapproved material.
+## 6. AI critique and human decision
+- ChatGPT suggestion: <ADD ONE SHORT SUGGESTION>
+- Claude suggestion: <ADD ONE SHORT SUGGESTION>
+- My decision: Accepted / Revised / Rejected
+- My reason: <EXPLAIN USING WEEK 2 EVIDENCE, SCOPE, OR TESTABILITY>
+
