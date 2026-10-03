@@ -7,9 +7,9 @@ Students who need IT Support information need a reliable way to find the correct
 next step because the current experience may be scattered, difficult to search, or
 hard to verify as current.
 ## 2. Evidence carried forward from Week 2
-- E-01: <PASTE ONE ANONYMIZED QUOTE OR OBSERVATION FROM THE TEAM EXERCISE>
-- E-02: <PASTE ONE SECOND ANONYMIZED QUOTE OR OBSERVATION>
-- A-01: <NAME ONE ASSUMPTION THAT STILL NEEDS VALIDATION>
+- E-01: (Says) The date on the portal did not look like the date on the public page.
+- E-02: (Does) Saves screenshots
+- A-01: A system that all the incoming students will use.
 ## 3. One user journey inside the MVP
 A student asks one typed IT Support question. CampusConnect searches only approved
 IT Support material, returns a short answer with a visible source, or says the
@@ -29,5 +29,5 @@ actions, and answers from unapproved material.
 - ChatGPT suggestion: SF-01
 - Claude suggestion: SF-01
 - My decision: Accepted
-- My reason: <EXPLAIN USING WEEK 2 EVIDENCE, SCOPE, OR TESTABILITY>
+- My reason: The wording and cited IDs match the artifact 
 
