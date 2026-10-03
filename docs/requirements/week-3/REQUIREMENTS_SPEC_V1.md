@@ -26,8 +26,8 @@ source, safe failure, and helpful next step.
 OUT: password resets, ticket creation, personal student records, voice, automatic
 actions, and answers from unapproved material.
 ## 6. AI critique and human decision
-- ChatGPT suggestion: <ADD ONE SHORT SUGGESTION>
-- Claude suggestion: <ADD ONE SHORT SUGGESTION>
-- My decision: Accepted / Revised / Rejected
+- ChatGPT suggestion: SF-01
+- Claude suggestion: SF-01
+- My decision: Accepted
 - My reason: <EXPLAIN USING WEEK 2 EVIDENCE, SCOPE, OR TESTABILITY>
 
