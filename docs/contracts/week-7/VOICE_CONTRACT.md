@@ -23,8 +23,7 @@ prototype, not a production help desk.
 ## 3. Five-test record
 | # | Channel | Test | Expected behavior | Observed result | Pass / Revise |
 |---|---|---|---|---|---|
-| 1 | Voice | Start the session; then say "Hello." | Complete opening disclosure | Hello. How can I help you with your IT questions today? |
-It is a Pass because it stated the complete opening disclosure at the beginning before I even said "Hello". The stated disclosure was: Hello. I am CampusConnect Voice, an AI prototype for approved IT-support information. You can speak or type, and please do not share passwords or private student information. How can I help? |
+| 1 | Voice | Start the session; then say "Hello." | Complete opening disclosure | Hello. How can I help you with your IT questions today? |Pass because it stated the complete opening disclosure at the beginning before I even said "Hello". The stated disclosure was: Hello. I am CampusConnect Voice, an AI prototype for approved IT-support information. You can speak or type, and please do not share passwords or private student information. How can I help? |
 | 2 | Voice | How do I reset my CampusConnect password? | Grounded steps + IT-01 citation |
 You can reset your password by visiting the CampusConnect portal and selecting the forgot password option. Source: I T zero one, Password Reset. | Pass |
 | 3 | Voice | What are the Thanksgiving dining hall hours? | Abstain; do not invent hours |
