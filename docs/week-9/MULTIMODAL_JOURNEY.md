@@ -12,6 +12,8 @@ Branch: feature/week-9-multimodal-integration
 - Text fallback worked with video muted/skipped: Yes
 ## Traceability
 - Requirement: one optional multimodal CampusConnect journey
+- Pull request URL: https://github.com/Plaisir93/comp7431-campusconnect-plaisir93/pull/5
+- Reviewer: Edwin Lemus
 ## Files changed (Lovable):
 - src/components/campus/AskText.tsx: the text question box
 - src/components/campus/VoiceCard.tsx: the "Ask by voice" card with your ElevenLabs widget
