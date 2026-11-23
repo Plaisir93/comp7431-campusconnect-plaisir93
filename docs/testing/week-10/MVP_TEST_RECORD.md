@@ -33,8 +33,8 @@ Severity: MINOR
 Smallest repair made: No repair required
 Focused retest result: PASS
 ## 4. Release gate
-Release decision: GO
-Decision reason: no blocker or severe defect remains
+Release decision: No-GO
+Decision reason: The workflow action fails to run.
 GitHub Actions run: https://github.com/Plaisir93/comp7431-campusconnect-plaisir93/actions/runs/43991618319
 Release tag if GO: v0.9.0-rc1
 ## 5. Engineering and AI Use Log
