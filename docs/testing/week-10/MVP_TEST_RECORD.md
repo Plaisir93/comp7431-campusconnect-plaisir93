@@ -34,10 +34,10 @@ Smallest repair made: No repair required
 Focused retest result: PASS
 ## 4. Release gate
 Release decision: GO
-Decision reason: Accessibility is 100
-GitHub Actions run: 
+Decision reason: no blocker or severe defect remains
+GitHub Actions run: Issue with 
 Release tag if GO: v0.9.0-rc1
 ## 5. Engineering and AI Use Log
 What I tested myself: 
-What remained human-reviewed rather than automated: Manual testing is also encouraged.
+What remained human-reviewed rather than automated: Manual testing.
 Known limitation carried into Week 11 Red Teaming: Automatic detection can only detect a subset of issues and does not guarantee the accessibility of your web app, so manual testing is also encouraged.
