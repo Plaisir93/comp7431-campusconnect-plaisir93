@@ -35,9 +35,9 @@ Focused retest result: PASS
 ## 4. Release gate
 Release decision: GO
 Decision reason: no blocker or severe defect remains
-GitHub Actions run: Issue with 
+GitHub Actions run: https://github.com/Plaisir93/comp7431-campusconnect-plaisir93/actions/runs/43991618319
 Release tag if GO: v0.9.0-rc1
 ## 5. Engineering and AI Use Log
-What I tested myself: 
+What I tested myself: The workflow python code is not working with Lovable project because Lovable generates TypeScript. Then, Lovable will not generate code to an existing GitHub project. It requires new one.
 What remained human-reviewed rather than automated: Manual testing.
 Known limitation carried into Week 11 Red Teaming: Automatic detection can only detect a subset of issues and does not guarantee the accessibility of your web app, so manual testing is also encouraged.
